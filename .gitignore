@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+logs/
+notes/
+# slides: only the submitted PDF is in the repo
+slides/*
+!slides/PQC_project2_talk_final.pdf
+results/*_last.pt
+# extra plots written by evaluation/analyze.py
+figures/ler_vs_p_*
+figures/failures_*

@@ -1,0 +1,7 @@
+GNN results/gnn_72_l2e-2_best.pt, p=0.04, 5000 shots. Position 0 = updated first, 71 = last.
+fired checks | share of qubits | mean centered score | avg position true errors | avg position others
+0 | 0.548 | +0.14 | 24.4 | 23.6
+1 | 0.340 | -0.13 | 57.8 | 51.1
+2 | 0.084 | -0.76 | 18.9 | 64.1
+3 | 0.028 | +1.17 | 10.4 | 38.1
+all | | | 16.9 | 36.3
